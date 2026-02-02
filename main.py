@@ -1,4 +1,3 @@
-
 import discord
 from discord import Option
 from discord.ext import commands, tasks
